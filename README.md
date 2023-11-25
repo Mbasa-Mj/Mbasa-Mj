@@ -7,8 +7,10 @@
 
   
 
-Tool I work with:
-Web development - HTML
+Tool I work with
+
+
+Web development :- HTML
                 - CSS
                 - ASP.NET mvc core
                 - Java Script
@@ -16,6 +18,6 @@ Web development - HTML
 
 
                 
-DATA - SQL Server
+DATA :- SQL Server
      - Jupyter notebook/Pandas
      - Python
