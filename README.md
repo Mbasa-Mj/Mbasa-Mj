@@ -11,13 +11,15 @@ Tool I work with
 -
 
 Web development :- HTML
-                - CSS
-                - ASP.NET mvc core
+                , CSS
+                , ASP.NET mvc core
+
+
 
                               
 DATA :- SQL Server
-     - Jupyter notebook/Pandas
-     - Python
+     , Jupyter notebook/Pandas
+     , Python
 
 -
 -
