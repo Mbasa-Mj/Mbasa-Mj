@@ -28,3 +28,20 @@ DATA :- SQL Server
 Portfolio
 -
 ![Portfolio](https://github.com/Mbasa-Mj/Mbasa-Mj/assets/152037295/d1378e4c-9643-4d15-8776-a797d9e51a6d)
+![PortfolioCont](https://github.com/Mbasa-Mj/Mbasa-Mj/assets/152037295/ee5018f5-5546-4171-b05c-77730c0df911)
+
+
+
+
+
+
+
+Nibbles
+-
+Food restaurant web page
+![Nibbles](https://github.com/Mbasa-Mj/Mbasa-Mj/assets/152037295/f11ddade-97fc-4275-b4a7-37cad000c989)
+
+
+
+
+
