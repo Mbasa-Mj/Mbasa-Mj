@@ -19,4 +19,6 @@ Web development :- HTML
 DATA :- SQL Server
      - Jupyter notebook/Pandas
      - Python
+
+  Portfolio
 ![Portfolio](https://github.com/Mbasa-Mj/Mbasa-Mj/assets/152037295/d1378e4c-9643-4d15-8776-a797d9e51a6d)
